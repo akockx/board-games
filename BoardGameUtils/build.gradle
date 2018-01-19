@@ -1,0 +1,8 @@
+/*
+ * Copyright (c) 2018 A.C. Kockx, All Rights Reserved.
+ */
+apply plugin: 'java'
+
+dependencies {
+    compile project(':Utils')
+}

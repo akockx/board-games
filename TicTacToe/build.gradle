@@ -1,0 +1,12 @@
+/*
+ * Copyright (c) 2018 A.C. Kockx, All Rights Reserved.
+ */
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName='tictactoe.TicTacToe'
+
+dependencies {
+    compile project(':BoardGameUtils')
+    compile project(':Utils')
+}
