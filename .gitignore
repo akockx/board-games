@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+
+Utils/build/
+BoardGameUtils/build/
+TicTacToe/build/
